@@ -12,10 +12,10 @@
 
 ## 🟢Coding Profile!
 
-<a href="https://www.hackerrank.com/darshankparmar" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/hirenchavda141" /></a>
-<a href="https://www.codechef.com/users/darshankparmar" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="https://www.codechef.com/users/python_008" /></a>
-<a href="https://codeforces.com/profile/darshankparmar" target="_blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="https://codeforces.com/profile/Hiren_9979" /></a>
-<a href="https://leetcode.com/darshankparmar/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="https://leetcode.com/hiren141/" /></a>
+<a href="https://www.hackerrank.com/hirenchavda141" target="_blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="https://www.hackerrank.com/hirenchavda141" /></a>
+<a href="https://www.codechef.com/users/python_008" target="_blank"><img align="center" src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="https://www.codechef.com/users/python_008" /></a>
+<a href="https://codeforces.com/profile/Hiren_9979" target="_blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="https://codeforces.com/profile/Hiren_9979" /></a>
+<a href="https://leetcode.com/hiren141/" target="_blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="https://leetcode.com/hiren141/" /></a>
 
 <br>
 
