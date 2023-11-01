@@ -1,7 +1,7 @@
 <div align="center"><a href="#"><img src="https://user-images.githubusercontent.com/67963288/148515686-941a08d2-55b9-4c09-93ca-7d2034aac37c.png" height="275px"/></a></div>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">Passionate learner</h3>
+<h3 align="center">I am Hiren Chavda</h3>
 
 # 💫 About Me:
 
