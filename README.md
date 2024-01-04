@@ -1,4 +1,19 @@
 <div align="center"><a href="#"><img src="https://user-images.githubusercontent.com/67963288/148515686-941a08d2-55b9-4c09-93ca-7d2034aac37c.png" height="275px"/></a></div>
+<svg id="sw-js-blob-svg" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sw-gradient" x1="0" x2="1" y1="1" y2="0">
+      <stop id="stop1" stop-color="rgba(248, 117, 55, 1)" offset="0%"></stop>
+      <stop id="stop2" stop-color="rgba(251, 168, 31, 1)" offset="100%"></stop>
+    </linearGradient>
+  </defs>
+  <mask id="mask1" mask-type="alpha">
+    <path fill="url(#sw-gradient)" d="M30.8,-26.1C37,-16.7,37.3,-4.1,34.5,7.7C31.6,19.5,25.8,30.4,17.1,33.9C8.5,37.3,-2.8,33.4,-12.7,28C-22.6,22.7,-31,15.8,-32.6,7.8C-34.2,-0.3,-28.9,-9.6,-22.4,-19.1C-15.8,-28.6,-7.9,-38.4,2.2,-40.1C12.3,-41.8,24.5,-35.6,30.8,-26.1Z" width="100%" height="100%" transform="translate(50 50)" stroke-width="0" style="transition: all 0.3s ease 0s;"></path>
+  </mask>
+  <g mask="url(#mask1)">
+    <path fill="url(#sw-gradient)" d="M30.8,-26.1C37,-16.7,37.3,-4.1,34.5,7.7C31.6,19.5,25.8,30.4,17.1,33.9C8.5,37.3,-2.8,33.4,-12.7,28C-22.6,22.7,-31,15.8,-32.6,7.8C-34.2,-0.3,-28.9,-9.6,-22.4,-19.1C-15.8,-28.6,-7.9,-38.4,2.2,-40.1C12.3,-41.8,24.5,-35.6,30.8,-26.1Z" width="100%" height="100%" transform="translate(50 50)" stroke-width="0" style="transition: all 0.3s ease 0s;"></path>
+    <image style="width: 85px;" x="17" y="9" href="https://ibb.co/xHFKZxH" alt="myImg"></image>
+  </g>
+</svg>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I am Hiren Chavda</h3>
